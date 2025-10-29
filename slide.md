@@ -111,6 +111,25 @@ paginate: true
 
 ---
 
+# 案例 - Sdorica 萬象物語
+
+國際版本 | 修改版本
+:-----|:------
+![h:200](img/sdorica-fredrica.png) | ![h:200](img/sdorica-fredrica-ly.png)
+![h:200](img/sdorica-kittyeyes.png) | ![h:200](img/sdorica-kittyeyes-ly.jpg)
+
+
+---
+
+# 案例 - Sdorica 萬象物語
+
+國際版本 | 修改版本
+:-----|:------
+![h:200](img/sdorica-lisa.png) | ![h:200](img/sdorica-lisa-ly.jpg)
+![h:200](img/sdorica-yamitsuki.png) | ![h:200](img/sdorica-yamitsuki-ly.png)
+
+---
+
 ### 二、依您之見，「平臺自律」與「政府他律」的監管政策之價值選擇的利弊得失為何，以及兩者是否存在雙軌並行的可能
 - 平臺自律的優勢在於靈活性與專業性，但可能缺乏透明度與問責性
 - 政府他律則能提供法律保障與公共利益，但可能導致過度監管與創新受限
@@ -147,6 +166,9 @@ paginate: true
 
 [因為反抗，所以存在：監控資本主義下的自由如何可能？](https://sitcon.org/2025/agenda/90352d/)
 
+# 案例圖片引用自
+- [【討論】龍淵服的神奇操作 @Sdorica 萬象物語 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=29560&snA=6736)
+- [角色一览 - 万象物语WIKI BWIKI_哔哩哔哩](https://wiki.biligame.com/wanxiang/%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88)
 
 ---
 
